@@ -1,7 +1,7 @@
 # SynoImageSD
 Using stable diffusion with synology chat
 
-Only tested on Windows 10, builds on llama-ccp-python
+Only tested on Windows 10
 
 Install
 
