@@ -1,0 +1,12 @@
+#pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+flask
+transformers
+requests
+diffusers[torch]
+accelerate
+transformers
+safetensors
+sentencepiece
+huggingface_hub
+invisible-watermark
