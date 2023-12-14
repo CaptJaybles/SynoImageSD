@@ -5,8 +5,6 @@ Only tested on Windows 10
 
 Install
 
-install visual studio community 2022 (I checked python development and C++ developement)
-
 clone repository
 
 create virtual envirement in folder
