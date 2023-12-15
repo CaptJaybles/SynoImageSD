@@ -15,6 +15,10 @@ Install
 
     venv/Scripts/activate
 
+  4) Install the pytorch you want ie:
+     
+    pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+    
   4) install the requirements
 
     pip install -r requirements.txt
